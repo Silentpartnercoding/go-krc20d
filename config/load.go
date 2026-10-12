@@ -16,7 +16,7 @@ import (
 var json = jsoniter.ConfigCompatibleWithStandardLibrary
 
 // //////////////////////////////
-const Version = "3.01.260930"
+const Version = "3.01.261012"
 const HfDaaScore2026Q1 = 408300500
 const HfDaaScoreScriptParserFix = 97539090
 

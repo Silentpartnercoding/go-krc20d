@@ -1,5 +1,6 @@
 
 x-common: &common
+  cpus: "8.0"
   ulimits:
     nofile:
       soft: 65535
